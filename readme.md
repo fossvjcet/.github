@@ -38,3 +38,30 @@ To help you get started with open source development, we have compiled a list of
 
 ## Contact Us
 
+* 👨‍💻  I'm currently working on [https://fossvjcet.github.io/](https://fossvjcet.github.io)
+* ✉️  You can reach me at [fossclubvjcet@gmail.com](mailto:fossclubvjcet@gmail.com)
+
+
+[![Github Follow](https://img.shields.io/badge/Github-100000?style=plastic&logo=github&logoColor=white)](https://github.com/fossvjcet)
+[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/https://twitter.com/fossvjcet)
+[![Linkedin Follow](https://img.shields.io/badge/Linkedin-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/company/fossvjcet//)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fossvjcet/)
+[![Youtube Follow](https://img.shields.io/badge/Youtube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://youtube.com/@https://youtube.com/@fossvjcet)
+
+
+
+
+
+
+
+
+### Badges
+
+<h4>My GitHub Stats</h4>
+
+<a href="http://www.github.com/fossvjcet"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mspatel18&langs_count=3&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27&hide_border=true" alt="Top Languages"/></a>
+
+
+
+
+
