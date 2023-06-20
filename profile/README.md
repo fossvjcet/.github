@@ -2,6 +2,11 @@
 
 Welcome to the official GitHub repository of FOSS VJCET, the open source club of Viswajyothi College of Engineering and Technology. This repository serves as a hub for all our open source projects, contributions, and resources. We are a community of passionate developers who believe in the power of open source software and its ability to drive innovation and collaboration.
 
+[![Github Follow](https://img.shields.io/badge/Github-100000?style=plastic&logo=github&logoColor=white)](https://github.com/fossvjcet)
+[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)](https://twitter.com/https://twitter.com/fossvjcet)
+[![Linkedin Follow](https://img.shields.io/badge/Linkedin-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/company/fossvjcet//)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fossvjcet/)
+[![Youtube Follow](https://img.shields.io/badge/Youtube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://youtube.com/@https://youtube.com/@fossvjcet)
 ## About Us
 
 Viswajyothi College of Engineering and Technology (VJCET) is a private self-financing technical institution located in Vazhakulam, Ernakulam. Affiliated to the APJ Abdul Kalam Technological University (APJ KTU) and approved by the All India Council for Technical Education (AICTE), VJCET is known for its highly committed management team, competent faculty, and dedicated staff.
